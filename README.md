@@ -1,2 +1,2 @@
 # Hidden-Message-Extraction
-Extracting Hidden Message in an audio with the help of Python deepspeech library and hosting it on streamlit.
+A Python-based application was implemented to embed and extract hidden messages using the LSB audio steganography method
